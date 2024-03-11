@@ -112,6 +112,18 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px #636262;
 }
+.card-kits {
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #636262;
+  background-color: #ffffff;
+  width: 40%;
+  margin: auto;
+  margin-top: 10px;
+}
+  
+
 
 
 /* responsi */
