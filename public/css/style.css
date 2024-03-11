@@ -1,0 +1,142 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #a3a3a3;
+}
+
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+
+.top_container {
+  position: relative;
+}
+
+.bg-barra {
+  background-color: #F11AAF;
+}
+
+.secction_preguntasFrecuentes {
+  background-color: #ffffff;
+}
+
+.footer_section {
+  background-color: #d8b109;
+  padding: 20px 15px;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.footer_section p {
+  color: #afafd4;
+  margin: 0;
+  text-align: center;
+}
+
+.footer_section a {
+  color: #fdfdfe;
+}
+/* INICIO */
+/* SECCION INICIO */
+.inicio{
+  background-size: cover;
+  background-position: center center;
+
+}
+.inicio .contenido-seccion{
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+  padding: 0 10px;
+  /* padding: 0 0 120px 0; */
+}
+/* TITULO1 */
+.inicio .contenido-seccion header .logo{
+  font-weight: bold;
+  font-size: 2.5rem;
+  font-family: "Yellowtail";
+  text-shadow: 0 0 35px #000000;
+  color: #ffffff;
+}
+/* TITULO2 */
+.inicio .contenido-seccion header .logo .color{
+  color: #20ad7e;
+  font-family: "Yellowtail";
+}
+
+.inicio .contenido-seccion .info{
+  padding-bottom: 130px;
+}
+.inicio .contenido-seccion .info .redes a{
+  display: inline-block;
+  text-decoration: none;
+  background-color: #5d3aaf;
+  color: #646464;
+  border: 1px solid #6e696c;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  margin: 0 5px;
+  transition: .3s;
+}
+.inicio .contenido-seccion .foto{
+  position: relative;
+}
+/* BORDE DEL PERFIL */
+.inicio .contenido-seccion .foto img{
+  max-width: 200px;
+  border-radius: 50%;
+  border: 5px solid #6747a1;
+  position: absolute;
+  left: 50%;
+  top: -100px;
+  transform: translateX(-50%);
+}
+/* CONTENIDO */
+.contenido_section {
+  padding: 50px 0;
+  height: auto;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  background-color: #d8b109;
+
+}
+.img_imprimir {
+  margin:10px 0;
+  width: 40%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #636262;
+}
+
+
+/* responsi */
+@media (max-width: 768px) {
+  .inicio .contenido-seccion header .logo {
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+  }
+  .inicio .contenido-seccion .foto img {
+    max-width: 170px;
+  }
+  .inicio .contenido-seccion .info {
+    padding-bottom: 100px;
+  }
+  .inicio .contenido-seccion .info .redes a {
+    margin: 5px 0;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+  }
+  .contenido_section {
+    padding: 30px 0;
+  }
+  .img_imprimir {
+    width: 90%;
+  }
+}
