@@ -20,6 +20,8 @@ body {
 
 .secction_preguntasFrecuentes {
   background-color: #ffffff;
+  margin: 10px;
+  border-radius: 20px;
 }
 
 .footer_section {
