@@ -1,6 +1,12 @@
+@import 'paletaColores.css';
+
+
+
+
+
 body {
   font-family: 'Raleway', sans-serif;
-  background-color: #a3a3a3;
+  background-color: var(--color-fondo);
 }
 
 html,
@@ -15,19 +21,19 @@ body {
 }
 
 .bg-barra {
-  background-color: #F11AAF;
+  background-color: var(--color-terceary)
 }
 
 
 .footer_section {
-  background-color: #d8b109;
+  background-color:var(--color-negativo);
   padding: 20px 15px;
   font-family: 'Poppins', sans-serif;
 
 }
 
 .footer_section p {
-  color: #afafd4;
+  color: #ffffff;
   margin: 0;
   text-align: center;
 }
@@ -69,7 +75,7 @@ body {
 .inicio .contenido-seccion .info .redes a{
   display: inline-block;
   text-decoration: none;
-  background-color: #5d3aaf;
+  background-color: var(--color-primary);
   color: #646464;
   border: 1px solid #6e696c;
   border-radius: 50%;
@@ -86,7 +92,7 @@ body {
 .inicio .contenido-seccion .foto img{
   max-width: 200px;
   border-radius: 50%;
-  border: 5px solid #6747a1;
+  border: 5px solid var(--color-primary);;
   position: absolute;
   left: 50%;
   top: -100px;
@@ -98,7 +104,7 @@ body {
   height: auto;
   text-align: center;
   font-family: 'Poppins', sans-serif;
-  background-color: #d8b109;
+  background-color: var(--color-fondo2);
 
 }
 .img_imprimir {

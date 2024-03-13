@@ -1,0 +1,12 @@
+/* paleta de colores primario segundario y terceario */
+:root {
+        --color-primary: #5d3aaf;
+        --color-secondary: #08B64F;
+        --color-terceary: #e74c3c;
+        
+        --color-fondo: #a3a3a3;
+        --color-fondo2:  #08B64F;
+
+        --color-negativo: #000000;
+        --color-positivo: #ffffff;
+}
