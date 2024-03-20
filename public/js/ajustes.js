@@ -6,9 +6,14 @@ const datos = [
                 img: 'img/kit1.png'
         },
         {
-                nombreKit: 'KIT DE 1000 ACTIVIDADES',
+                nombreKit: 'KIT DE 1000 ACTIVIDADES PARA LOS PEQUES',
                 enlace: 'https://mil-actividades.web.app/',
                 img: 'img/kit2.png'
+        },
+        {
+                nombreKit: 'KIT DE ALFABETIZACIÓN INFANTIL',
+                enlace: 'https://kit-de-alfabetizacion.web.app/',
+                img: 'img/kit3.png'
         },
 
 ];
