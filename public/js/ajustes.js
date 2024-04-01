@@ -15,6 +15,11 @@ const datos = [
                 enlace: 'https://kit-de-alfabetizacion.web.app/',
                 img: 'img/kit3.png'
         },
+        {
+                nombreKit: 'CUADERNILLOS GRATIS',
+                enlace: 'https://whatsapp.com/channel/0029VaGqxiJ42DcnbrcARF0B',
+                img: 'img/kit4.png'
+        },
 
 ];
 
