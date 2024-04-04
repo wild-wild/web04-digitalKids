@@ -16,10 +16,16 @@ const datos = [
                 img: 'img/kit3.png'
         },
         {
+                nombreKit: 'LIBRO DE ESTIMULACIÓN TEMPRANA',
+                enlace: 'https://pay.hotmart.com/K92179998A?ap=&offDiscount=OFERTA-50',
+                img: 'img/kit5.png'
+        },
+        {
                 nombreKit: 'CUADERNILLOS GRATIS',
                 enlace: 'https://whatsapp.com/channel/0029VaGqxiJ42DcnbrcARF0B',
                 img: 'img/kit4.png'
         },
+
 
 ];
 
