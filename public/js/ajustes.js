@@ -17,7 +17,7 @@ const datos = [
         },
         {
                 nombreKit: 'LIBRO DE ESTIMULACIÓN TEMPRANA',
-                enlace: 'https://pay.hotmart.com/K92179998A?ap=&offDiscount=OFERTA-50',
+                enlace: 'https://hotm.art/oferta-estimulacion-temprana',
                 img: 'img/kit5.png'
         },
         {
