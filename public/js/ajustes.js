@@ -16,9 +16,14 @@ const datos = [
                 img: 'img/kit3.png'
         },
         {
-                nombreKit: 'LIBRO DE ESTIMULACIÓN TEMPRANA',
+                nombreKit: 'KIT DE ESTIMULACIÓN TEMPRANA',
                 enlace: 'https://hotm.art/oferta-estimulacion-temprana',
                 img: 'img/kit5.png'
+        },
+        {
+                nombreKit: 'PACK DE ACTIVIDADES PARA NIÑOS CON AUTISMO',
+                enlace: 'https://go.hotmart.com/X92471869M',
+                img: 'img/kit6.png'
         },
         {
                 nombreKit: 'CUADERNILLOS GRATIS',
