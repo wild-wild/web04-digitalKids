@@ -23,7 +23,7 @@ const datos = [
         {
                 nombreKit: 'PACK DE ACTIVIDADES PARA NIÑOS CON AUTISMO',
                 enlace: 'https://go.hotmart.com/X92471869M',
-                img: 'img/kit6.png'
+                img: 'img/kit6.jpg'
         },
         {
                 nombreKit: 'CUADERNILLOS GRATIS',
