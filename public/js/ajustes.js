@@ -25,6 +25,18 @@ const datos = [
                 enlace: 'https://go.hotmart.com/X92471869M',
                 img: 'img/kit6.jpg'
         },
+        // cursos---------------------------
+        {
+                nombreKit: 'CURSO ONLINE: Estimulación temprana en casa, Aprende a estimular a tu bebé',
+                enlace: 'https://go.hotmart.com/E93029423R?ap=0203',
+                img: 'img/curso1.png'
+        },
+        {
+                nombreKit: 'CURSO ONLINE: ABORDAJE DE NIÑOS CON AUTISMO',
+                enlace: 'https://go.hotmart.com/W93328607J?ap=5e37',
+                img: 'img/curso2.png'
+        },
+        // ----------------------------------
         {
                 nombreKit: 'CUADERNILLOS GRATIS',
                 enlace: 'https://whatsapp.com/channel/0029VaGqxiJ42DcnbrcARF0B',
